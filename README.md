@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Intersting projects.
 - 📫 Reach me on social Medias
 
-Be Calm Be Kind Stay Positive 🤙✌️💫 
+Be Calm Be humble, Stay Positive 🤙✌️💫 
 
 <!---
 Thujeevan-Dev/Thujeevan-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
