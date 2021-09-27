@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/Thujeevan-Dev/Personal-portfolio/blob/main/images/img/cover.jpg)](https://Davekibh.github.io)
+[![ProfileBanner](https://github.com/Thujeevan-Dev/Personal-portfolio/blob/main/images/img/Linkedin%20Cover-Recovered.png)](https://Davekibh.github.io)
 
 - 👋 Hi, I’m Thujeevan... 
 - 👀 I’m interested in Full Stack Developer
