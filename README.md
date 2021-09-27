@@ -26,6 +26,11 @@ Be Calm Be humble, Stay Positive 🤙✌️💫
   
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Thujeevan-Dev/count.svg" />
+</p>
+
 
 <!---
 Thujeevan-Dev/Thujeevan-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
