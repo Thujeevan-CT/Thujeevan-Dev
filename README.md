@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Thujeevan... 
 - 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently in Frontend Developer
 - 💞️ I’m looking to collaborate on Intersting projects.
 - 📫 Reach me on social Medias
 
